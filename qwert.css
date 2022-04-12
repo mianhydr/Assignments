@@ -2,27 +2,21 @@ body
 {
     background-color: purple;
 }
-form
+fieldset
 {
+    margin-top: 100px;
+    margin-left: 700px;
+    margin-right: 200px;
     background-color: white;
-    width: 250px;
-    height: 280px;
-    padding-left: 40px;
-    padding-top: 40px ;
-    margin-left: 800px;
     border: 2px white solid;
-    display: inline-block;
-    margin-bottom: 10px;
-   
-
 }
-button
+legend
 {
-background-color: rgb(39, 194, 194);
+padding: 5px;
 color: white;
-margin-left: 830px;
-margin-top: 10px;
-display: inline-block;
+background-color:rgb(39, 194, 194);
+border-radius: 3px;
+border-style: groove rgb(39, 194, 194);
 }
 #id1
 {
@@ -34,10 +28,17 @@ display: inline-block;
     padding-left: 30PX;
     padding-right: 30px;
     padding-bottom: 5px;
+    border-radius: 3px;
 }
 .c1
 {
     border-color:rgb(39, 194, 194);
     border-style: solid;
+    margin-left: 90px;
+}
+label
+{
+    margin-left: 90px;
+    
 }
 
