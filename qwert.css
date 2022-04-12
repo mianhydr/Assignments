@@ -1,0 +1,43 @@
+body
+{
+    background-color: purple;
+}
+form
+{
+    background-color: white;
+    width: 250px;
+    height: 280px;
+    padding-left: 40px;
+    padding-top: 40px ;
+    margin-left: 800px;
+    border: 2px white solid;
+    display: inline-block;
+    margin-bottom: 10px;
+   
+
+}
+button
+{
+background-color: rgb(39, 194, 194);
+color: white;
+margin-left: 830px;
+margin-top: 10px;
+display: inline-block;
+}
+#id1
+{
+    color: white;
+    background-color: rgb(39, 194, 194);
+    border-color: rgb(39, 194, 194);
+    border-style: none;
+    padding-top: 5px;
+    padding-left: 30PX;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+.c1
+{
+    border-color:rgb(39, 194, 194);
+    border-style: solid;
+}
+
